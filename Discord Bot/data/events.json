@@ -1,0 +1,82 @@
+{
+  "1400517636210823199": {
+    "event_id": "1400517636210823199",
+    "title": "Raid",
+    "description": "Idziemy po kluczyki",
+    "datetime": "2025-07-31T17:50:00+01:00",
+    "timezone": "Europe/London",
+    "channel_id": 1399670284193103942,
+    "message_id": 1400517960229195826,
+    "image_url": "https://cdn.discordapp.com/attachments/1399662313627455528/1400517880315117568/The_Division_2_player_avatar_with_a_tactical_mask_goggles_and_the_text_AHQ.png?ex=688ced6b&is=688b9beb&hm=8922b79e647a8037f2acc2a3ac41ec6ea5c99273ab1c11a683b94859e765cde7&",
+    "roles": {
+      "\ud83d\udd35 Tank": [],
+      "\ud83d\udfe2 Healler": [],
+      "\ud83d\udd34 DPS": [],
+      "\u274c Nie mam czasu": [],
+      "\u2753 Mo\u017ce": [],
+      "Oczekuj\u0105cy": []
+    },
+    "author_id": 476295018286415872,
+    "reminded": true
+  },
+  "1400521193395720243": {
+    "event_id": "1400521193395720243",
+    "title": "RAID",
+    "description": "Po kluczyki",
+    "datetime": "2025-07-31T18:00:00+01:00",
+    "timezone": "Europe/London",
+    "channel_id": 1399670284193103942,
+    "message_id": 1400521419992989706,
+    "image_url": "https://cdn.discordapp.com/attachments/1399662313627455528/1400521350929453246/The_Division_2_player_avatar_with_a_tactical_mask_goggles_and_the_text_AHQ.png?ex=688cf0a6&is=688b9f26&hm=25dd820b8bf5fd66a2d28b9217588d18ab69123b4c227992871c3c66578a501d&",
+    "roles": {
+      "Tank": [],
+      "Healler": [],
+      "DPS": [],
+      "Nie mam czasu": [],
+      "Mo\u017ce": [],
+      "Oczekuj\u0105cy": []
+    },
+    "author_id": 476295018286415872,
+    "reminded": true
+  },
+  "1400522621761753149": {
+    "event_id": "1400522621761753149",
+    "title": "RAID",
+    "description": "Po klucze",
+    "datetime": "2025-07-31T18:10:00+01:00",
+    "timezone": "Europe/London",
+    "channel_id": 1399670284193103942,
+    "message_id": 1400522897503551519,
+    "image_url": "https://cdn.discordapp.com/attachments/1399662313627455528/1400522835969183885/The_Division_2_player_avatar_with_a_tactical_mask_goggles_and_the_text_AHQ.png?ex=688cf208&is=688ba088&hm=c65dc69e1993115e2695bbbc9c497e871ddef9d55c60a767893c6902bb39b39f&",
+    "roles": {
+      "Tank": [],
+      "Healler": [],
+      "DPS": [],
+      "Nie mam czasu": [],
+      "Mo\u017ce": [],
+      "Oczekuj\u0105cy": []
+    },
+    "author_id": 476295018286415872,
+    "reminded": true
+  },
+  "1400526995074449438": {
+    "event_id": "1400526995074449438",
+    "title": "RAID",
+    "description": "Po kluczyki",
+    "datetime": "2025-07-31T18:30:00+01:00",
+    "timezone": "Europe/London",
+    "channel_id": 1399670284193103942,
+    "message_id": 1400527242190127248,
+    "image_url": "https://cdn.discordapp.com/attachments/1399662313627455528/1400527175140114442/The_Division_2_player_avatar_with_a_tactical_mask_goggles_and_the_text_AHQ.png?ex=688cf613&is=688ba493&hm=2a3acd9161164e163884fed773691b40573375e86059c2d86c24801deaafc47e&",
+    "roles": {
+      "\ud83d\udd35 Tank": [],
+      "\ud83d\udfe2 Healler": [],
+      "\ud83d\udd34 DPS": [],
+      "\u274c Nie mam czasu": [],
+      "\u2753 Mo\u017ce": [],
+      "Oczekuj\u0105cy": []
+    },
+    "author_id": 476295018286415872,
+    "reminded": true
+  }
+}

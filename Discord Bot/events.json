@@ -1,0 +1,25 @@
+{
+  "1400532587130130643": {
+    "event_id": "1400532587130130643",
+    "title": "RAID",
+    "description": "Po kluczyki",
+    "datetime": "2025-08-04T18:55:00+01:00",
+    "timezone": "Europe/London",
+    "channel_id": 1399670284193103942,
+    "message_id": 1400532864428408904,
+    "image_url": "https://cdn.discordapp.com/attachments/1399662313627455528/1400532798963454103/The_Division_2_player_avatar_with_a_tactical_mask_goggles_and_the_text_AHQ.png?ex=688cfb4f&is=688ba9cf&hm=ca74a556630f7492fcb7ceb795045389bcdfb781c6d2eacee291e32ca0a2dc5f&",
+    "roles": {
+      "🧙 Raidy": [
+        "476295018286415872"
+      ],
+      "⚔️ PvP": [
+        "476295018286415872"
+      ],
+      "🎉 Casual": [
+        "476295018286415872"
+      ]
+    },
+    "author_id": 476295018286415872,
+    "reminded": false
+  }
+}
